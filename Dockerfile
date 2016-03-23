@@ -9,5 +9,7 @@ RUN npm install
 
 ADD conf/config.js /opt/haste/config.js
 
+VOLUME ["/opt/haste"]
+
 EXPOSE 80
 CMD ["npm", "start"]
