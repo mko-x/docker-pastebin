@@ -1,5 +1,5 @@
 FROM node
-MAINTAINER Markus Kosmal <code@m-ko-x.de>
+MAINTAINER Markus Kosmal <b@m-ko.de>
 
 RUN git clone https://github.com/seejohnrun/haste-server.git /opt/haste
 WORKDIR /opt/haste
