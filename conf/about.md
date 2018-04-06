@@ -46,4 +46,4 @@ and without notice.
 Code by John Crepezzi <john.crepezzi@gmail.com>
 Key Design by Brian Dawson <bridawson@gmail.com>
 
-Extended by Markus Kosmal <code@m-ko-x.de>
+Extended by Markus Kosmal <b@m-ko.de>
