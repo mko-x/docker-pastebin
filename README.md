@@ -170,4 +170,4 @@ If you want to acces via Windows have a look at [Aidan Ryan's WinHaste](https://
 
 # Issues
 
-For issues please stick to [gitgub's issue tracker](https://github.com/mko-x/docker-pastebin/issues)
+For issues please stick to [github's issue tracker](https://github.com/mko-x/docker-pastebin/issues).
