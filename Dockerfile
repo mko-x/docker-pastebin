@@ -1,4 +1,4 @@
-FROM node
+FROM node:alpine
 MAINTAINER Markus Kosmal <b@m-ko.de>
 
 RUN git clone https://github.com/seejohnrun/haste-server.git /opt/haste
