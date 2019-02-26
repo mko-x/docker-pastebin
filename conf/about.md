@@ -1,3 +1,7 @@
+# About
+
+Simple paste bin container.
+
 # Haste
 
 Sharing code is a good thing, and it should be _really_ easy to do it.
