@@ -1,6 +1,8 @@
 # docker-pastebin
 A dev oriented pastebin like container for sharing code and text. A lot more usefull though, thanking [John Crepezzi](https://github.com/seejohnrun) Paste your stuff however :)
 
+[![build-and-push](https://github.com/mko-x/docker-pastebin/actions/workflows/build-and-push.yml/badge.svg)](https://github.com/mko-x/docker-pastebin/actions/workflows/build-and-push.yml)
+
 # Quickstart
 
 ## Run
